@@ -1,3 +1,9 @@
+body {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 22px;
+  color: #333030;
+}
+
 .title-large {
   font-size: 45px;
   margin-bottom: 30px;
@@ -10,9 +16,7 @@
   margin-bottom: 40px;
   margin-top: 20px;
   color: rgb(139, 43, 43);
-
 }
-
 
 .text-center {
   text-align: center;

@@ -1,5 +1,5 @@
-.proportions {
-  width: 940px;
+.container {
+  max-width: 940px;
   margin-left: auto;
   margin-right: auto;
 }
