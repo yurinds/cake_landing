@@ -1,22 +1,19 @@
-body {
-  font-family: Georgia, Times, 'Times New Roman', serif;
-  font-size: 22px;
-  color: #333030;
+.title-large {
+  font-size: 45px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  color: crimson;
 }
 
 .title {
-  font-size: 40px;
-  text-align: center;
-  margin-bottom: 40px
+  font-size: 35px;
+  margin-bottom: 40px;
+  margin-top: 20px;
+  color: rgb(139, 43, 43);
+
 }
 
-.wrapper p {
-  text-indent: 1.5em;
-  margin-top: 10px;
-}
 
-.header-footer-text {
-  font-size: 30px;
+.text-center {
   text-align: center;
-  font-weight: bolder;
 }
