@@ -1,0 +1,13 @@
+.image {
+  border: 4px double rgb(172, 163, 163);
+  border-radius: 8px;
+  height: 200px;
+}
+
+.margin-left {
+  margin-right: 20px;
+}
+
+.margin-right {
+  margin-left: 20px;
+}

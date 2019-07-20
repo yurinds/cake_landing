@@ -1,0 +1,21 @@
+.wrapper {
+  margin-top: 50px;
+  height: 100%;
+  margin-bottom: 50px;
+}
+
+.proportions {
+  width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.column-0-6 {
+  width: 60%;
+  float: left;
+}
+
+.column-0-4 {
+  width: 38%;
+  float: right;
+}

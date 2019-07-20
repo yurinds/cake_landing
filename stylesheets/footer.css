@@ -1,0 +1,41 @@
+.footer {
+  position: relative;
+  margin-top: -50px;
+  height: 50px;
+  background: rgb(153, 153, 153);
+  clear: both;
+}
+
+html,
+body,
+.main {
+  height: 100%;
+}
+
+body>.main {
+  height: auto;
+  min-height: 100%;
+}
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.clearfix {
+  display: inline-block;
+}
+
+/* Hides from IE-mac \*/
+* html .clearfix {
+  height: 1%;
+}
+
+.clearfix {
+  display: block;
+}
+
+/* End hide from IE-mac */
