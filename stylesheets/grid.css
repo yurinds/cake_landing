@@ -35,9 +35,12 @@
   margin-bottom: 40px;
 }
 
-
 .clear-both {
   clear: both;
+}
+
+.float-left {
+  float: left;
 }
 
 .clearfix:after {
