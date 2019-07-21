@@ -15,6 +15,7 @@
 
 .review-item {
   display: inline-block;
+  height: 350px;
 }
 
 .review-border-right {
@@ -61,7 +62,6 @@
   }
 
 }
-
 
 @media (max-width: 360px) {
   .review-column {
