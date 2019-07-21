@@ -5,7 +5,6 @@
   top: 0;
   opacity: 0.95;
   height: 76px;
-
 }
 
 .header-nav {
@@ -41,11 +40,15 @@
   .header-logo {
     float: none;
   }
-
 }
 
 @media (max-width: 360px) {
   .header-nav-item {
     display: block;
   }
+}
+
+.header-nav-link:hover {
+  color: rgb(63, 0, 0);
+  transition: all ease .3s;
 }

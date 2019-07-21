@@ -12,3 +12,8 @@
   background: crimson;
   color: #fff;
 }
+
+.button-crimson:hover {
+  background: rgb(122, 0, 24);
+  transition: all ease .3s;
+}
