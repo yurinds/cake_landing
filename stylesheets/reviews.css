@@ -50,6 +50,19 @@
 
 }
 
+@media (max-width: 820px) {
+  .review-column {
+    width: 100%;
+    float: none;
+  }
+
+  .review-border-right {
+    border-right: none;
+  }
+
+}
+
+
 @media (max-width: 360px) {
   .review-column {
     width: 100%;
