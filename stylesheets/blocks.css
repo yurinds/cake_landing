@@ -20,13 +20,17 @@
   padding-top: 10px;
 }
 
-.buy {
-  background-color: rgb(255, 210, 210);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: scroll, fixed;
-  background-position: 0 0%, center center;
-  height: 350px;
-  clear: both;
-  padding: 20px;
+@media (max-width: 640px) {
+  .intro {
+    margin-top: 0px;
+  }
+
+}
+
+@media (max-width: 360px) {
+
+  .intro {
+    margin-top: 0px;
+  }
+
 }

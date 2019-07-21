@@ -37,3 +37,28 @@
   text-align: left;
   text-indent: 15px;
 }
+
+@media (max-width: 640px) {
+  .review-column {
+    width: 100%;
+    float: none;
+  }
+
+  .review-border-right {
+    border-right: none;
+  }
+
+}
+
+@media (max-width: 360px) {
+  .review-column {
+    width: 100%;
+    float: none;
+    border: none;
+  }
+
+  .review-border-right {
+    border-right: none;
+  }
+
+}

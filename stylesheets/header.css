@@ -31,8 +31,9 @@
   .header {
     position: inherit;
     width: auto;
-    background: #fff;
-    top: auto;
+    height: auto;
+
+    background: rgb(252, 229, 229);
     opacity: 1;
   }
 
