@@ -29,3 +29,15 @@
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.clear-both {
+  clear: both;
+}
+
+.clearfix:after {
+  content: ".";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}

@@ -1,0 +1,11 @@
+.about {
+  background-color: rgb(243, 179, 179);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll, fixed;
+  background-position: 0 0%, center center;
+  height: 100%;
+  /* Высота блока */
+  width: 100%;
+  clear: both;
+}
