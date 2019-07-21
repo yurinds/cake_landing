@@ -30,6 +30,12 @@
   margin-bottom: 20px;
 }
 
+.buffer-both-large {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+
 .clear-both {
   clear: both;
 }
