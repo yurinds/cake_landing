@@ -13,13 +13,10 @@
   .buy .float-left {
     float: none;
   }
-
-
 }
 
 @media (max-width: 360px) {
   .buy .float-left {
     float: none;
   }
-
 }

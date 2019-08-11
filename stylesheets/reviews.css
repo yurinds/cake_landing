@@ -48,7 +48,6 @@
   .review-border-right {
     border-right: none;
   }
-
 }
 
 @media (max-width: 820px) {
@@ -60,7 +59,6 @@
   .review-border-right {
     border-right: none;
   }
-
 }
 
 @media (max-width: 360px) {
@@ -73,5 +71,4 @@
   .review-border-right {
     border-right: none;
   }
-
 }
