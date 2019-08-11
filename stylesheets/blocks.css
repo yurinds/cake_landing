@@ -4,7 +4,6 @@
   background-attachment: scroll, fixed;
   background-position: 0 0%, center center;
   padding: 20px;
-  margin-top: 76px;
 }
 
 .about {
@@ -19,22 +18,24 @@
   padding-top: 10px;
 }
 
-
+@media (min-width: 641px) and (max-width: 990px) {
+  .header-buffer {
+    margin-top: 76px;
+  }
+}
 
 @media (max-width: 991px) {
   .intro {
-    margin-top: 0px;
     background-image: linear-gradient(rgba(255, 225, 187, 0.7), rgb(255, 234, 234)), url('../images/intro_3.jpg');
-
   }
-
 }
 
 @media (min-width: 992px) {
   .intro {
-    margin-top: 0px;
     background-image: linear-gradient(rgba(255, 225, 187, 0.7), rgb(255, 234, 234));
-
   }
 
+  .header-buffer {
+    margin-top: 76px;
+  }
 }
