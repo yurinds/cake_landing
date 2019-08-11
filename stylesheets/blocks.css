@@ -23,6 +23,8 @@
 @media (max-width: 640px) {
   .intro {
     margin-top: 0px;
+    background-image: linear-gradient(rgba(255, 225, 187, 0.7), rgb(255, 234, 234)), url("../images/intro_3.jpg");
+
   }
 }
 
